@@ -16,7 +16,7 @@
   "dependencies": {
     "ava": "^1.4.1",
     "chalk": "^2.4.2",
-    "commander": "^2.13.0"
+    "commander": "^3.0.1"
    },
   "devDependencies": {
     "@types/node": "^11.13.8",

@@ -1,7 +1,7 @@
 {
-  "name": "typescript-cli-boilerplate",
+  "name": "typescript-cli-template",
   "version": "1.0.0",
-  "description": "boilerplate for a typescript cli application",
+  "description": "template for a typescript cli application",
   "main": "index.js",
   "scripts": {
     "build": "tsc",

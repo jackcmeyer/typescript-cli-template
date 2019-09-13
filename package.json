@@ -4,9 +4,10 @@
   "description": "template for a typescript cli application",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
+    "prepare": "npm run build",
+    "build": "npx tsc",
     "start": "ts-node src/index.ts",
-    "test": "ava"
+    "test": "npx ava"
   },
   "author": "Jack Meyer",
   "license": "MIT",

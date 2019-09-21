@@ -30,7 +30,7 @@
     "cz-emoji": "^1.1.2",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-airbnb-typescript": "^4.0.0",
+    "eslint-config-airbnb-typescript": "^5.0.0",
     "eslint-plugin-import": "^2.17.2",
     "dateformat": "^3.0.3",
     "husky": "^3.0.5",

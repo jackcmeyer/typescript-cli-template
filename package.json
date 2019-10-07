@@ -10,6 +10,10 @@
     "lint": "npx eslint src/**/*.ts",
     "test": "npx ava"
   },
+  "repository": "git://github.com/jackcmeyer/typescript-cli-template.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Jack Meyer",
   "license": "MIT",
   "engines": {

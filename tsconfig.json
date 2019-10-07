@@ -12,5 +12,6 @@
     "types": ["node"],
     "esModuleInterop": true,
     "resolveJsonModule": true
-  }
+  },
+  "exclude": ["./test", "lib"]
 }

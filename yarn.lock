@@ -359,14 +359,14 @@
     resolve-from "5.0.0"
     resolve-global "1.0.0"
 
-"@commitlint/core@^8.3.4":
-  version "8.3.4"
-  resolved "https://registry.yarnpkg.com/@commitlint/core/-/core-8.3.4.tgz#d8af7ecea01573d66b34d50b8148811f66ecb294"
-  integrity sha512-4brMoMwnlPLeL6b7+I/7lP7JsIw4gL0+VjSPCrw6dK1YJhxpGx5l82nJ2HkPKWERd/PGif+QO1JL/NPeSxpsRA==
+"@commitlint/core@^8.3.5":
+  version "8.3.5"
+  resolved "https://registry.yarnpkg.com/@commitlint/core/-/core-8.3.5.tgz#00689ad817489263c71aad65875841961bce688d"
+  integrity sha512-UjfNA95fXZW20dmNJ8upBfH/Br7RPQro3osatmE9l9EZBv0xzHS5Cc4TzXMwe32xxHCqIEUtPFedxAHgELVHmg==
   dependencies:
     "@commitlint/format" "^8.3.4"
-    "@commitlint/lint" "^8.3.4"
-    "@commitlint/load" "^8.3.4"
+    "@commitlint/lint" "^8.3.5"
+    "@commitlint/load" "^8.3.5"
     "@commitlint/read" "^8.3.4"
 
 "@commitlint/ensure@^8.3.4":
@@ -395,7 +395,7 @@
   dependencies:
     semver "6.3.0"
 
-"@commitlint/lint@^8.3.4", "@commitlint/lint@^8.3.5":
+"@commitlint/lint@^8.3.5":
   version "8.3.5"
   resolved "https://registry.yarnpkg.com/@commitlint/lint/-/lint-8.3.5.tgz#627e75adb1cc803cc723e33cc2ba4aa27cbb9f0c"
   integrity sha512-02AkI0a6PU6rzqUvuDkSi6rDQ2hUgkq9GpmdJqfai5bDbxx2939mK4ZO+7apbIh4H6Pae7EpYi7ffxuJgm+3hQ==
@@ -406,7 +406,7 @@
     babel-runtime "^6.23.0"
     lodash "4.17.15"
 
-"@commitlint/load@^8.3.4", "@commitlint/load@^8.3.5":
+"@commitlint/load@^8.3.5":
   version "8.3.5"
   resolved "https://registry.yarnpkg.com/@commitlint/load/-/load-8.3.5.tgz#3f059225ede92166ba94cf4c48e3d67c8b08b18a"
   integrity sha512-poF7R1CtQvIXRmVIe63FjSQmN9KDqjRtU5A6hxqXBga87yB2VUJzic85TV6PcQc+wStk52cjrMI+g0zFx+Zxrw==

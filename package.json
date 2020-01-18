@@ -25,7 +25,7 @@
     "commander": "^4.1.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.4",
+    "@commitlint/cli": "^8.3.5",
     "@commitlint/core": "^8.3.4",
     "@types/node": "^13.1.6",
     "@typescript-eslint/eslint-plugin": "^1.7.0",

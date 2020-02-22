@@ -20,7 +20,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "ava": "^2.4.0",
+    "ava": "^3.3.0",
     "chalk": "^3.0.0",
     "commander": "^4.1.1"
   },

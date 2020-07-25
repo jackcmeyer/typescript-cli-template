@@ -22,7 +22,7 @@
   "dependencies": {
     "ava": "^2.4.0",
     "chalk": "^4.1.0",
-    "commander": "^5.1.0"
+    "commander": "^6.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",

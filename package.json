@@ -34,7 +34,7 @@
     "cross-env": "^7.0.2",
     "cz-emoji": "^1.2.2",
     "dateformat": "^3.0.3",
-    "eslint": "^7.10.0",
+    "eslint": "^7.12.1",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.1",
     "husky": "^4.3.0",

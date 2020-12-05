@@ -31,7 +31,7 @@
     "@typescript-eslint/eslint-plugin": "^1.7.0",
     "@typescript-eslint/parser": "^1.7.0",
     "commitlint-config-gitmoji": "^1.0.1",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "cz-emoji": "^1.2.2",
     "dateformat": "^3.0.3",
     "eslint": "^7.10.0",
